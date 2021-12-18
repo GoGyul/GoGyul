@@ -13,8 +13,8 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
 
 
-(Github Stat) [![Go's GitHub stats](https://github-readme-stats.vercel.app/api?username=username)] 
-(Most Used Language) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username)
+[![Go's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoGyul)] 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoGyul)]
 
 
 
