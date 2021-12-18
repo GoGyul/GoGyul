@@ -1,5 +1,5 @@
 
-<h3 align="center"><b>###👋 안녕 세상 👋</b></h3>
+<h3 align="center"><b>👋 안녕 세상 👋</b></h3>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
